@@ -1,4 +1,0 @@
-today
-tom
-bob
-xyz
