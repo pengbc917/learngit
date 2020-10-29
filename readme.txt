@@ -3,4 +3,4 @@ Git is free software.
 
 Creating a new branch is quick.
 
-Creating a nwe branch is quick & sample
+Creating a nwe branch is quick and sample
